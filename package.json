@@ -1,0 +1,26 @@
+{
+  "name": "pulsejs",
+  "version": "0.0.1",
+  "description": "a minimalist nodejs http framework with no third party dependencies used for educational purpose.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hal-29/pulsejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "http",
+    "framework",
+    "pulse",
+    "pulsejs"
+  ],
+  "author": "haileiyesus mesafint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hal-29/pulsejs/issues"
+  },
+  "homepage": "https://github.com/hal-29/pulsejs#readme"
+}
